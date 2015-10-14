@@ -1,2 +1,1 @@
-# Optimierung
-Solutions for tasks of "Optimierung für Studierende der Informatik"
+# Nothing to see here!
